@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStoreAPI", "OnlineStoreAPI.csproj", "{9CE5D06D-0A0A-4640-88C9-D80A2326107B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "..\Core\Core.csproj", "{36D65005-19B5-4554-9B87-B545976AFDCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{0B06EDC4-F3B2-4D3D-A1DC-FFF22DB1C73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE5D06D-0A0A-4640-88C9-D80A2326107B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE5D06D-0A0A-4640-88C9-D80A2326107B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE5D06D-0A0A-4640-88C9-D80A2326107B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE5D06D-0A0A-4640-88C9-D80A2326107B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D65005-19B5-4554-9B87-B545976AFDCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D65005-19B5-4554-9B87-B545976AFDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D65005-19B5-4554-9B87-B545976AFDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D65005-19B5-4554-9B87-B545976AFDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B06EDC4-F3B2-4D3D-A1DC-FFF22DB1C73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B06EDC4-F3B2-4D3D-A1DC-FFF22DB1C73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B06EDC4-F3B2-4D3D-A1DC-FFF22DB1C73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B06EDC4-F3B2-4D3D-A1DC-FFF22DB1C73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C01CA838-1D33-40A7-A439-526C38DE9C09}
+	EndGlobalSection
+EndGlobal

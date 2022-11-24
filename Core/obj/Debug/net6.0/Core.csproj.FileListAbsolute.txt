@@ -1,0 +1,12 @@
+E:\Repos\Github\OnlineStore\Core\bin\Debug\net6.0\Core.deps.json
+E:\Repos\Github\OnlineStore\Core\bin\Debug\net6.0\Core.dll
+E:\Repos\Github\OnlineStore\Core\bin\Debug\net6.0\Core.pdb
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\Core.dll
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\refint\Core.dll
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\Core.pdb
+E:\Repos\Github\OnlineStore\Core\obj\Debug\net6.0\ref\Core.dll
